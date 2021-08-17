@@ -25,6 +25,7 @@
 [<img align="left" alt="javascript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][htmlwebsite]
 [<img align="left" alt="javascript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][csswebsite]
 [<img align="left" alt="javascript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][reactwebsite]
+[<img align="left" alt="javascript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">][reduxwebsite]
 [<img align="left" alt="javascript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">][djangowebsite]
 [<img align="left" alt="javascript" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">][bootstrapwebsite]
 [<img align="left" alt="javascript" width="30" src="https://tailwindcss.com/_next/static/media/twitter-square.daf77586b35e90319725e742f6e069f9.jpg">][tailwindwebsite]
@@ -43,6 +44,7 @@
 [htmlwebsite]: https://html.com/
 [csswebsite]: https://html.com/
 [reactwebsite]: https://reactjs.org/
+[reduxwebsite]: https://redux.js.org/
 [djangowebsite]: https://www.djangoproject.com/
 [bootstrapwebsite]: https://getbootstrap.com/
 [tailwindwebsite]: https://tailwindcss.com/
