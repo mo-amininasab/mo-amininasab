@@ -1,11 +1,11 @@
 ### Hi there, I'm Mohammad 👏
 
-## I'm a web developer!
+## I'm a Data Scientist!
 - 🌐 I just launched my personal website: [visit my website][website]
-- ⚛ I'm currently learning React.
+- ⚛ 
 - 💻 I'm looking for a job.
-- 🥇 2021 Goal: Learn front-end tools.
-- 💥Fun fact: I'm a musician too.
+- 🥇 2023 Goal: 
+- 💥Fun fact:
 
 ### Connect with me:
 
