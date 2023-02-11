@@ -8,8 +8,5 @@ If you're interested in learning more about me or my work, feel free to reach ou
 
 ---
 
-How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mo-amininasab/)
 - [Gmail](mo.amininasabb@gmail.com)
-- [Github](https://github.com/mo-amininasab)
-- [Kaggle](https://www.kaggle.com/mohammadamininasab)
